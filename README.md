@@ -10,7 +10,7 @@ The data used in this project was imported directly from a MYSQL database into P
 ## Dashboard created
 -Financial Overview
 -Customer Overview
-# # Files Included
+## Files Included
 -'Credit_card.pbix' Power bi file
 -'Credit card transaction Dashboard ppt1' project presentation
 -'credit_card.csv' dataset
